@@ -1,4 +1,5 @@
 # Android 技术笔记
+欢迎来到我的 Android 技术笔记项目！这个项目包含了我在学习和使用 C 语言过程中积累的一些知识和技巧
 
 ## C 语言
 
@@ -35,5 +36,5 @@
 - :+1:[引用和指针的区别](https://github.com/midFang/AwesomeAndroid/blob/master/c%2B%2B/day27%20%E5%BC%95%E7%94%A8%E5%92%8C%E6%8C%87%E9%92%88%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 - :+1:[集合和函数谓词](https://github.com/midFang/AwesomeAndroid/blob/master/c%2B%2B/day28%20%E9%9B%86%E5%90%88%E5%92%8C%E5%87%BD%E6%95%B0%E8%B0%93%E8%AF%8D.md)
 - :+1:[一元谓词和二元谓词](https://github.com/midFang/AwesomeAndroid/blob/master/c%2B%2B/day29%20%E4%B8%80%E5%85%83%E8%B0%93%E8%AF%8D%E5%92%8C%E4%BA%8C%E5%85%83%E8%B0%93%E8%AF%8D.md)
-- :+1:[]()
+- :+1:[常见的预定义函数 , 和函数适配器](https://github.com/midFang/AwesomeAndroid/blob/master/c%2B%2B/day30%20%E5%B8%B8%E8%A7%81%E7%9A%84%E9%A2%84%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0%20%2C%20%E5%92%8C%E5%87%BD%E6%95%B0%E9%80%82%E9%85%8D%E5%99%A8.md)
 
