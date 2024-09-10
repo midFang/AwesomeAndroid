@@ -38,3 +38,6 @@
 - :+1:[一元谓词和二元谓词](https://github.com/midFang/AwesomeAndroid/blob/master/c%2B%2B/day29%20%E4%B8%80%E5%85%83%E8%B0%93%E8%AF%8D%E5%92%8C%E4%BA%8C%E5%85%83%E8%B0%93%E8%AF%8D.md)
 - :+1:[常见的预定义函数 , 和函数适配器](https://github.com/midFang/AwesomeAndroid/blob/master/c%2B%2B/day30%20%E5%B8%B8%E8%A7%81%E7%9A%84%E9%A2%84%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0%20%2C%20%E5%92%8C%E5%87%BD%E6%95%B0%E9%80%82%E9%85%8D%E5%99%A8.md)
 
+## 音视频
+
+- :+1:[音视频前置知识](https://github.com/midFang/AwesomeAndroid/blob/master/ffmpeg/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%89%8D%E7%BD%AE%E7%9F%A5%E8%AF%86.md)
